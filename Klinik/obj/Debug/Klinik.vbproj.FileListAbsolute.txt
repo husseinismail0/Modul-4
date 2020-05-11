@@ -1,0 +1,10 @@
+D:\Kodingan\Klinik\Klinik\bin\Debug\Klinik.exe.config
+D:\Kodingan\Klinik\Klinik\obj\Debug\Klinik.Form1.resources
+D:\Kodingan\Klinik\Klinik\obj\Debug\Klinik.Resources.resources
+D:\Kodingan\Klinik\Klinik\obj\Debug\Klinik.vbproj.GenerateResource.Cache
+D:\Kodingan\Klinik\Klinik\bin\Debug\Klinik.exe
+D:\Kodingan\Klinik\Klinik\bin\Debug\Klinik.pdb
+D:\Kodingan\Klinik\Klinik\bin\Debug\Klinik.xml
+D:\Kodingan\Klinik\Klinik\obj\Debug\Klinik.exe
+D:\Kodingan\Klinik\Klinik\obj\Debug\Klinik.xml
+D:\Kodingan\Klinik\Klinik\obj\Debug\Klinik.pdb
